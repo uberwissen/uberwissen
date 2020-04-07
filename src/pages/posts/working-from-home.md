@@ -10,10 +10,9 @@ template: post
 subtitle: ''
 
 ---
-
 ## Advantages and Disadvantages
 
-As 1996 came to a close, industrial age giant were still the most valuable companies in the world: General Electric, Royal Dutch Shell, the Coca-Cola Company, ExxonMobil and a Japanese telecommunications company named Nippon Telegraph and Telephone. Fast-forward just two decades to the present day, and none of those companies is in the top five anymore. They’ve been replaced by Apple, Google, Microsoft, Amazon and Facebook. In the intervening time, the world economy has come to be dominated by giant tech companies such as these. The 150 most valuable tech companies in Silicon Valley alone are valued at an astounding $3.5 trillion.
+**As 1996 came to a close, industrial age giant were still the most valuable companies in the world: General Electric, Royal Dutch Shell, the Coca-Cola Company, ExxonMobil and a Japanese telecommunications company named Nippon Telegraph and Telephone. Fast-forward just two decades to the present day, and none of those companies is in the top five anymore. They’ve been replaced by Apple, Google, Microsoft, Amazon and Facebook. In the intervening time, the world economy has come to be dominated by giant tech companies such as these. The 150 most valuable tech companies in Silicon Valley alone are valued at an astounding $3.5 trillion.**
 
 > Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do. - Pele
 
